@@ -6,5 +6,5 @@ Follow this link => [Notion WEb Page ](https://blush-coral-d3b.notion.site/Telug
 
 Hugging face Trained models 
 * [Sathvik6323/cardiffnlp-twitter-roberta-base-sentiment](https://huggingface.co/Sathvik6323/cardiffnlp-twitter-roberta-base-sentiment) => Accuracy=   53.74% 
-* [Sathvik6323/Telugu-Distilbert-base-Multilingual-uncased](https://huggingface.co/Hrishith123/Telugu-Distilbert-base-Multilingual-uncased/settings) => Accuracy=  66.067%
+* [Sathvik6323/Telugu-Distilbert-base-Multilingual-cased](https://huggingface.co/Hrishith123/Telugu-Distilbert-base-Multilingual-uncased/settings) => Accuracy=  66.067%
 * [Sathvik6323/Telugu-AI4Bharath-Sentiment-Classification](https://huggingface.co/Akhil-9640/Telugu-AI4Bharath-Sentiment-Classification) => Accuracy=  53.7%
